@@ -1,0 +1,2 @@
+# RegistrationApp
+ PENDAFTARAN ULANG DAN PEMBAYARAN IURAN BULANAN SISWA SMKN 02 KEPAHIANG BERBASIS WEB  Updated 13 seconds ago Aplikasi pengelolaan pendaftaran ulang dan pembayaran iuran bulanan siswa SMKN 02 Kepahiang adalah sebuah aplikasi berbasis web dengan empatrole user yaitu siswa, guru, bagian kesiswaan, dan bagian keuangan. Dengan beberapa fungsi untuk melakukan registrasi ulang dan pembayaran iuran seperti pengajuan dan approval oleh user.
