@@ -1,0 +1,45 @@
+* {
+	font-family: 'Roboto', sans-serif;
+	box-sizing: border-box;
+}
+
+body {
+	line-height: 1.5em;
+}
+
+.login-picture, .login-section {
+	height: 100vh;
+	padding:  15px;
+}
+
+.login-section {
+	position: relative;
+}
+
+.login-section .login-child {
+	position: absolute;
+	top: 45%;
+	transform: translateY(-50%);
+}
+
+.login-section h1 {
+	margin: 0;
+	font-size: 28px;
+}
+
+.login-picture {
+	background: url('../images/login-image.png') center center no-repeat,
+				#c5bfb8;
+}
+
+.login-section {
+	background: #fff;
+}
+
+.login-select {
+	margin: 40px 0 20px;
+}
+
+.login-select li a {
+	padding: 5px 15px;
+}
